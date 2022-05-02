@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sophieontech
-- 👀 I’m interested in security engineering, devsecops or cloud sec.
-- 🌱 I’m currently learning to be a great backend engineer
+- 👀 Doing this software engineering thing and trying to kill it like Rihanna.
 - 💞️ I’m looking to collaborate on open source or fun projects
-- 📫 How to reach me @sophieontech across socials.
+- 📫 Reach me on @sophieontech across socials.
 
 <!---
 sophieontech/sophieontech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
