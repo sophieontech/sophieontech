@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sophieontech
+- 👋 Hi, I’m Sophina - @sophieontech, a Junior Full Stack Dev with a strog background in cybersecurity.
 - 👀 Doing this software engineering thing and trying to kill it like Rihanna.
 - 💞️ I’m looking to collaborate on open source or fun projects
 - 📫 Reach me on @sophieontech across socials.
