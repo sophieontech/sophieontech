@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sophina - a seasoned Security Engineer with nearly 7 years at Meta, Morgan Stanley and other institutions. Expertise in cloud and platform security for innovative solutions and cross-functional collaboration.
+- 👋 Hi, I’m Sophina - a Security Engineer. Expertise in cloud, platform security and cross-functional collaboration.
 - 💞️ I’m looking to collaborate on open source or fun projects
 - 📫 Reach me as 'The Sophina' across socials.
 
