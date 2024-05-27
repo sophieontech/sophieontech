@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Sophina - @sophieontech, a Junior Full Stack Developer with a strong background in cybersecurity.
-- 👀 Doing this software engineering thing and trying to kill it like Rihanna.
+- 👋 Hi, I’m Sophina - a seasoned Security Engineer with nearly 7 years at Meta, Morgan Stanley and other institutions. Expertise in cloud and platform security for innovative solutions and cross-functional collaboration.
 - 💞️ I’m looking to collaborate on open source or fun projects
-- 📫 Reach me on @sophieontech across socials.
+- 📫 Reach me as 'The Sophina' across socials.
 
 <!---
-sophieontech/sophieontech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thesophina/sophina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
