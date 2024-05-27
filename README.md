@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sophina - a Security Engineer. Expertise in cloud, platform security and cross-functional collaboration.
+- 👋 Hi, I’m Sophina, a Security Engineer with expertise in cloud, platform security and cross-functional collaboration.
 - 💞️ I’m looking to collaborate on open source or fun projects
 
 <!---
